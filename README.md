@@ -17,5 +17,5 @@
 <div align="center">
   <a href="https://github.com/amadnamartins">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=amadnamartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=FFFFFF&text_color=343a40&icon_color=FF9999&border_color=FF9999"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadnamartins&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true&bg_color=FFFFFF&text_color=343a40&icon_color=FF9999&border_color=FF9999"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadnamartins&layout=compact&langs_count=4&theme=dracula&include_all_commits=true&count_private=true&bg_color=FFFFFF&text_color=343a40&icon_color=FF9999&border_color=FF9999"/>
 </div>
