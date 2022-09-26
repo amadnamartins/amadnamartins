@@ -8,9 +8,11 @@
   
   ##
 
-🌸 Estudando javascript, HTML e CSS
+🌸 Front-end developer and UI/UX Design
 <br>
 🌸 ela/dela
+<br>
+🌸 Currently studying: Vue.JS
   
  ##
   
