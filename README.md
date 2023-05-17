@@ -18,7 +18,7 @@
 
 **About me**
 <br>
-(ela/dela)
+(she/her)
 
 💻 Front-end developer and UI/UX Design
 <br>
